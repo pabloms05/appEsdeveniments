@@ -39,7 +39,7 @@ class EsdevenimentSeeder extends Seeder
             'max_assistents' => 600,
             'reserves' => 320,
             'edat_minima' => 18,
-            'imatge' => 'nitRumbera.jpg',
+            'imatge' => 'nitrumbera.jpg',
             'categoria_id' => 1,
         ]);
 
