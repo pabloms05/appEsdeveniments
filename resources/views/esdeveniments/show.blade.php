@@ -3,7 +3,7 @@
 @section('content')
 <div class="container my-5">
     <a href="{{ url()->previous() }}" class="btn btn-outline-light mb-3">
-      <i class="bi bi-arrow-left"></i> Tornar
+      Tornar
     </a>
     <div class="row">
         <div class="col-md-6">
